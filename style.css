@@ -1,0 +1,44 @@
+
+}
+body{
+	margin: 2;
+	background-color: gold;
+}
+header{
+	background-color: black;
+	padding: 20px;
+	text-align: center;
+	color: ghostwhite;
+}
+
+nav{
+	overflow: hidden;
+	background-color: purple;
+}
+nav a{
+	float: left;
+	color: white;
+	padding: 14px;
+
+}
+nav a:hover{
+	background-color: blue;
+	color: black;
+}
+.column .side{
+	float: left;
+	padding: 10px;
+}
+.column .middle{
+	width: 50%;
+} 
+p{
+  text-align: justify;
+}
+footer{
+clear:both;
+  background-color: black;
+padding: 20px;
+text-align: center;
+color: white;
+}
